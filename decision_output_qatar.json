@@ -1,0 +1,2759 @@
+[
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 28,
+      "expected_total_race_time_s": 6885.2,
+      "expected_gain_vs_stayout_s": -8.0,
+      "confidence_band_s": [
+        -10.3,
+        -5.7
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 1,
+          "to_lap": 15,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 15
+        },
+        {
+          "from_lap": 15,
+          "to_lap": 29,
+          "compound": "H",
+          "planned_pit_lap": 29
+        },
+        {
+          "from_lap": 29,
+          "to_lap": 43,
+          "compound": "H",
+          "planned_pit_lap": 43
+        },
+        {
+          "from_lap": 43,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[1 , 5]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 27,
+      "expected_total_race_time_s": 7599.4,
+      "expected_gain_vs_stayout_s": -8.0,
+      "confidence_band_s": [
+        -10.3,
+        -5.7
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 2,
+          "to_lap": 15,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 15
+        },
+        {
+          "from_lap": 15,
+          "to_lap": 28,
+          "compound": "H",
+          "planned_pit_lap": 28
+        },
+        {
+          "from_lap": 28,
+          "to_lap": 41,
+          "compound": "H",
+          "planned_pit_lap": 41
+        },
+        {
+          "from_lap": 41,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[2 , 6]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 27,
+      "expected_total_race_time_s": 7669.0,
+      "expected_gain_vs_stayout_s": -8.0,
+      "confidence_band_s": [
+        -10.3,
+        -5.7
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 3,
+          "to_lap": 16,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 16
+        },
+        {
+          "from_lap": 16,
+          "to_lap": 29,
+          "compound": "H",
+          "planned_pit_lap": 29
+        },
+        {
+          "from_lap": 29,
+          "to_lap": 42,
+          "compound": "H",
+          "planned_pit_lap": 42
+        },
+        {
+          "from_lap": 42,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[3 , 7]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 26,
+      "expected_total_race_time_s": 7536.8,
+      "expected_gain_vs_stayout_s": -8.0,
+      "confidence_band_s": [
+        -10.3,
+        -5.7
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 4,
+          "to_lap": 17,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 17
+        },
+        {
+          "from_lap": 17,
+          "to_lap": 30,
+          "compound": "H",
+          "planned_pit_lap": 30
+        },
+        {
+          "from_lap": 30,
+          "to_lap": 43,
+          "compound": "H",
+          "planned_pit_lap": 43
+        },
+        {
+          "from_lap": 43,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[4 , 8]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 26,
+      "expected_total_race_time_s": 6898.0,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 5,
+          "to_lap": 18,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 18
+        },
+        {
+          "from_lap": 18,
+          "to_lap": 31,
+          "compound": "H",
+          "planned_pit_lap": 31
+        },
+        {
+          "from_lap": 31,
+          "to_lap": 44,
+          "compound": "H",
+          "planned_pit_lap": 44
+        },
+        {
+          "from_lap": 44,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[5 , 9]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 25,
+      "expected_total_race_time_s": 6458.7,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 6,
+          "to_lap": 18,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 18
+        },
+        {
+          "from_lap": 18,
+          "to_lap": 30,
+          "compound": "H",
+          "planned_pit_lap": 30
+        },
+        {
+          "from_lap": 30,
+          "to_lap": 42,
+          "compound": "H",
+          "planned_pit_lap": 42
+        },
+        {
+          "from_lap": 42,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[6 , 10]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 25,
+      "expected_total_race_time_s": 5656.0,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 7,
+          "to_lap": 19,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 19
+        },
+        {
+          "from_lap": 19,
+          "to_lap": 31,
+          "compound": "H",
+          "planned_pit_lap": 31
+        },
+        {
+          "from_lap": 31,
+          "to_lap": 43,
+          "compound": "H",
+          "planned_pit_lap": 43
+        },
+        {
+          "from_lap": 43,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[7 , 11]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 24,
+      "expected_total_race_time_s": 4928.5,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 8,
+          "to_lap": 20,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 20
+        },
+        {
+          "from_lap": 20,
+          "to_lap": 32,
+          "compound": "H",
+          "planned_pit_lap": 32
+        },
+        {
+          "from_lap": 32,
+          "to_lap": 44,
+          "compound": "H",
+          "planned_pit_lap": 44
+        },
+        {
+          "from_lap": 44,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[8 , 12]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 24,
+      "expected_total_race_time_s": 4838.8,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 9,
+          "to_lap": 21,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 21
+        },
+        {
+          "from_lap": 21,
+          "to_lap": 33,
+          "compound": "H",
+          "planned_pit_lap": 33
+        },
+        {
+          "from_lap": 33,
+          "to_lap": 45,
+          "compound": "H",
+          "planned_pit_lap": 45
+        },
+        {
+          "from_lap": 45,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[9 , 13]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 23,
+      "expected_total_race_time_s": 4735.6,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 10,
+          "to_lap": 21,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 21
+        },
+        {
+          "from_lap": 21,
+          "to_lap": 32,
+          "compound": "H",
+          "planned_pit_lap": 32
+        },
+        {
+          "from_lap": 32,
+          "to_lap": 43,
+          "compound": "H",
+          "planned_pit_lap": 43
+        },
+        {
+          "from_lap": 43,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[10 , 14]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 23,
+      "expected_total_race_time_s": 4639.2,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 11,
+          "to_lap": 22,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 22
+        },
+        {
+          "from_lap": 22,
+          "to_lap": 33,
+          "compound": "H",
+          "planned_pit_lap": 33
+        },
+        {
+          "from_lap": 33,
+          "to_lap": 44,
+          "compound": "H",
+          "planned_pit_lap": 44
+        },
+        {
+          "from_lap": 44,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[11 , 15]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 22,
+      "expected_total_race_time_s": 4546.6,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 12,
+          "to_lap": 23,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 23
+        },
+        {
+          "from_lap": 23,
+          "to_lap": 34,
+          "compound": "H",
+          "planned_pit_lap": 34
+        },
+        {
+          "from_lap": 34,
+          "to_lap": 45,
+          "compound": "H",
+          "planned_pit_lap": 45
+        },
+        {
+          "from_lap": 45,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[12 , 16]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 22,
+      "expected_total_race_time_s": 4456.2,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 13,
+          "to_lap": 24,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 24
+        },
+        {
+          "from_lap": 24,
+          "to_lap": 35,
+          "compound": "H",
+          "planned_pit_lap": 35
+        },
+        {
+          "from_lap": 35,
+          "to_lap": 46,
+          "compound": "H",
+          "planned_pit_lap": 46
+        },
+        {
+          "from_lap": 46,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[13 , 17]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 21,
+      "expected_total_race_time_s": 4350.9,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 14,
+          "to_lap": 24,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 24
+        },
+        {
+          "from_lap": 24,
+          "to_lap": 34,
+          "compound": "H",
+          "planned_pit_lap": 34
+        },
+        {
+          "from_lap": 34,
+          "to_lap": 44,
+          "compound": "H",
+          "planned_pit_lap": 44
+        },
+        {
+          "from_lap": 44,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[14 , 18]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 21,
+      "expected_total_race_time_s": 4258.9,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 15,
+          "to_lap": 25,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 25
+        },
+        {
+          "from_lap": 25,
+          "to_lap": 35,
+          "compound": "H",
+          "planned_pit_lap": 35
+        },
+        {
+          "from_lap": 35,
+          "to_lap": 45,
+          "compound": "H",
+          "planned_pit_lap": 45
+        },
+        {
+          "from_lap": 45,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[15 , 19]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 20,
+      "expected_total_race_time_s": 4169.2,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 16,
+          "to_lap": 26,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 26
+        },
+        {
+          "from_lap": 26,
+          "to_lap": 36,
+          "compound": "H",
+          "planned_pit_lap": 36
+        },
+        {
+          "from_lap": 36,
+          "to_lap": 46,
+          "compound": "H",
+          "planned_pit_lap": 46
+        },
+        {
+          "from_lap": 46,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[16 , 20]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 20,
+      "expected_total_race_time_s": 4079.3,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 17,
+          "to_lap": 27,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 27
+        },
+        {
+          "from_lap": 27,
+          "to_lap": 37,
+          "compound": "H",
+          "planned_pit_lap": 37
+        },
+        {
+          "from_lap": 37,
+          "to_lap": 47,
+          "compound": "H",
+          "planned_pit_lap": 47
+        },
+        {
+          "from_lap": 47,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[17 , 21]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 19,
+      "expected_total_race_time_s": 3965.3,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 18,
+          "to_lap": 27,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 27
+        },
+        {
+          "from_lap": 27,
+          "to_lap": 36,
+          "compound": "H",
+          "planned_pit_lap": 36
+        },
+        {
+          "from_lap": 36,
+          "to_lap": 45,
+          "compound": "H",
+          "planned_pit_lap": 45
+        },
+        {
+          "from_lap": 45,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[18 , 22]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 19,
+      "expected_total_race_time_s": 3872.2,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 19,
+          "to_lap": 28,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 28
+        },
+        {
+          "from_lap": 28,
+          "to_lap": 37,
+          "compound": "H",
+          "planned_pit_lap": 37
+        },
+        {
+          "from_lap": 37,
+          "to_lap": 46,
+          "compound": "H",
+          "planned_pit_lap": 46
+        },
+        {
+          "from_lap": 46,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[19 , 23]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 18,
+      "expected_total_race_time_s": 3778.7,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 20,
+          "to_lap": 29,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 29
+        },
+        {
+          "from_lap": 29,
+          "to_lap": 38,
+          "compound": "H",
+          "planned_pit_lap": 38
+        },
+        {
+          "from_lap": 38,
+          "to_lap": 47,
+          "compound": "H",
+          "planned_pit_lap": 47
+        },
+        {
+          "from_lap": 47,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[20 , 24]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 18,
+      "expected_total_race_time_s": 3688.2,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 21,
+          "to_lap": 30,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 30
+        },
+        {
+          "from_lap": 30,
+          "to_lap": 39,
+          "compound": "H",
+          "planned_pit_lap": 39
+        },
+        {
+          "from_lap": 39,
+          "to_lap": 48,
+          "compound": "H",
+          "planned_pit_lap": 48
+        },
+        {
+          "from_lap": 48,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[21 , 25]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 17,
+      "expected_total_race_time_s": 3570.5,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 22,
+          "to_lap": 30,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 30
+        },
+        {
+          "from_lap": 30,
+          "to_lap": 38,
+          "compound": "H",
+          "planned_pit_lap": 38
+        },
+        {
+          "from_lap": 38,
+          "to_lap": 46,
+          "compound": "H",
+          "planned_pit_lap": 46
+        },
+        {
+          "from_lap": 46,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[22 , 26]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 17,
+      "expected_total_race_time_s": 3480.2,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 23,
+          "to_lap": 31,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 31
+        },
+        {
+          "from_lap": 31,
+          "to_lap": 39,
+          "compound": "H",
+          "planned_pit_lap": 39
+        },
+        {
+          "from_lap": 39,
+          "to_lap": 47,
+          "compound": "H",
+          "planned_pit_lap": 47
+        },
+        {
+          "from_lap": 47,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[23 , 27]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 16,
+      "expected_total_race_time_s": 3389.8,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 24,
+          "to_lap": 32,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 32
+        },
+        {
+          "from_lap": 32,
+          "to_lap": 40,
+          "compound": "H",
+          "planned_pit_lap": 40
+        },
+        {
+          "from_lap": 40,
+          "to_lap": 48,
+          "compound": "H",
+          "planned_pit_lap": 48
+        },
+        {
+          "from_lap": 48,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[24 , 28]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 16,
+      "expected_total_race_time_s": 3303.1,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 25,
+          "to_lap": 33,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 33
+        },
+        {
+          "from_lap": 33,
+          "to_lap": 41,
+          "compound": "H",
+          "planned_pit_lap": 41
+        },
+        {
+          "from_lap": 41,
+          "to_lap": 49,
+          "compound": "H",
+          "planned_pit_lap": 49
+        },
+        {
+          "from_lap": 49,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[25 , 29]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 15,
+      "expected_total_race_time_s": 3182.0,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 26,
+          "to_lap": 33,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 33
+        },
+        {
+          "from_lap": 33,
+          "to_lap": 40,
+          "compound": "H",
+          "planned_pit_lap": 40
+        },
+        {
+          "from_lap": 40,
+          "to_lap": 47,
+          "compound": "H",
+          "planned_pit_lap": 47
+        },
+        {
+          "from_lap": 47,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[26 , 30]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 15,
+      "expected_total_race_time_s": 3092.3,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 27,
+          "to_lap": 34,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 34
+        },
+        {
+          "from_lap": 34,
+          "to_lap": 41,
+          "compound": "H",
+          "planned_pit_lap": 41
+        },
+        {
+          "from_lap": 41,
+          "to_lap": 48,
+          "compound": "H",
+          "planned_pit_lap": 48
+        },
+        {
+          "from_lap": 48,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[27 , 31]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 14,
+      "expected_total_race_time_s": 3004.6,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 28,
+          "to_lap": 35,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 35
+        },
+        {
+          "from_lap": 35,
+          "to_lap": 42,
+          "compound": "H",
+          "planned_pit_lap": 42
+        },
+        {
+          "from_lap": 42,
+          "to_lap": 49,
+          "compound": "H",
+          "planned_pit_lap": 49
+        },
+        {
+          "from_lap": 49,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[28 , 32]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 14,
+      "expected_total_race_time_s": 2919.4,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 29,
+          "to_lap": 36,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 36
+        },
+        {
+          "from_lap": 36,
+          "to_lap": 43,
+          "compound": "H",
+          "planned_pit_lap": 43
+        },
+        {
+          "from_lap": 43,
+          "to_lap": 50,
+          "compound": "H",
+          "planned_pit_lap": 50
+        },
+        {
+          "from_lap": 50,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[29 , 33]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.01,
+      "pit_probability_next_2_laps": 0.01,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 13,
+      "expected_total_race_time_s": 2837.9,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 30,
+          "to_lap": 37,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 37
+        },
+        {
+          "from_lap": 37,
+          "to_lap": 44,
+          "compound": "H",
+          "planned_pit_lap": 44
+        },
+        {
+          "from_lap": 44,
+          "to_lap": 51,
+          "compound": "H",
+          "planned_pit_lap": 51
+        },
+        {
+          "from_lap": 51,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[30 , 34]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 13,
+      "expected_total_race_time_s": 2753.8,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 31,
+          "to_lap": 38,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 38
+        },
+        {
+          "from_lap": 38,
+          "to_lap": 45,
+          "compound": "H",
+          "planned_pit_lap": 45
+        },
+        {
+          "from_lap": 45,
+          "to_lap": 52,
+          "compound": "H",
+          "planned_pit_lap": 52
+        },
+        {
+          "from_lap": 52,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[31 , 35]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.56,
+      "pit_probability_next_2_laps": 0.64,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 12,
+      "expected_total_race_time_s": 2671.7,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 32,
+          "to_lap": 39,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 39
+        },
+        {
+          "from_lap": 39,
+          "to_lap": 46,
+          "compound": "H",
+          "planned_pit_lap": 46
+        },
+        {
+          "from_lap": 46,
+          "to_lap": 53,
+          "compound": "H",
+          "planned_pit_lap": 53
+        },
+        {
+          "from_lap": 53,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[32 , 36]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 1,
+      "pit_probability_next_1_lap": 0.87,
+      "pit_probability_next_2_laps": 1.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 12,
+      "expected_total_race_time_s": 2590.9,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 33,
+          "to_lap": 40,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 40
+        },
+        {
+          "from_lap": 40,
+          "to_lap": 47,
+          "compound": "H",
+          "planned_pit_lap": 47
+        },
+        {
+          "from_lap": 47,
+          "to_lap": 54,
+          "compound": "H",
+          "planned_pit_lap": 54
+        },
+        {
+          "from_lap": 54,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[33 , 37]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 1,
+      "pit_probability_next_1_lap": 0.87,
+      "pit_probability_next_2_laps": 1.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 11,
+      "expected_total_race_time_s": 2511.8,
+      "expected_gain_vs_stayout_s": 10.2,
+      "confidence_band_s": [
+        7.9,
+        12.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 34,
+          "to_lap": 41,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 41
+        },
+        {
+          "from_lap": 41,
+          "to_lap": 48,
+          "compound": "H",
+          "planned_pit_lap": 48
+        },
+        {
+          "from_lap": 48,
+          "to_lap": 55,
+          "compound": "H",
+          "planned_pit_lap": 55
+        },
+        {
+          "from_lap": 55,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[34 , 38]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.87,
+      "pit_probability_next_2_laps": 1.0,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 11,
+      "expected_total_race_time_s": 2413.4,
+      "expected_gain_vs_stayout_s": -8.0,
+      "confidence_band_s": [
+        -10.3,
+        -5.7
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 3,
+      "stints": [
+        {
+          "from_lap": 35,
+          "to_lap": 42,
+          "compound": "MEDIUM",
+          "planned_pit_lap": 42
+        },
+        {
+          "from_lap": 42,
+          "to_lap": 49,
+          "compound": "H",
+          "planned_pit_lap": 49
+        },
+        {
+          "from_lap": 49,
+          "to_lap": 56,
+          "compound": "H",
+          "planned_pit_lap": 56
+        },
+        {
+          "from_lap": 56,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[35 , 39]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 1,
+      "pit_probability_next_1_lap": 0.86,
+      "pit_probability_next_2_laps": 0.99,
+      "recommended_compound_next": "H",
+      "target_stint_length_laps": 10,
+      "expected_total_race_time_s": 1830.6,
+      "expected_gain_vs_stayout_s": 7.9,
+      "confidence_band_s": [
+        5.6,
+        10.2
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 36,
+          "to_lap": 46,
+          "compound": "HARD",
+          "planned_pit_lap": 46
+        },
+        {
+          "from_lap": 46,
+          "to_lap": 57,
+          "compound": "H",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[36 , 40]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.01,
+      "pit_probability_next_2_laps": 0.02,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 10,
+      "expected_total_race_time_s": 1752.7,
+      "expected_gain_vs_stayout_s": 7.9,
+      "confidence_band_s": [
+        5.6,
+        10.2
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 37,
+          "to_lap": 47,
+          "compound": "HARD",
+          "planned_pit_lap": 47
+        },
+        {
+          "from_lap": 47,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[37 , 41]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 9,
+      "expected_total_race_time_s": 1708.9,
+      "expected_gain_vs_stayout_s": 6.2,
+      "confidence_band_s": [
+        3.9,
+        8.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 38,
+          "to_lap": 47,
+          "compound": "HARD",
+          "planned_pit_lap": 47
+        },
+        {
+          "from_lap": 47,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[38 , 42]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 9,
+      "expected_total_race_time_s": 2175.4,
+      "expected_gain_vs_stayout_s": 6.2,
+      "confidence_band_s": [
+        3.9,
+        8.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 39,
+          "to_lap": 48,
+          "compound": "HARD",
+          "planned_pit_lap": 48
+        },
+        {
+          "from_lap": 48,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[39 , 43]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 8,
+      "expected_total_race_time_s": 2115.9,
+      "expected_gain_vs_stayout_s": 6.2,
+      "confidence_band_s": [
+        3.9,
+        8.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 40,
+          "to_lap": 48,
+          "compound": "HARD",
+          "planned_pit_lap": 48
+        },
+        {
+          "from_lap": 48,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[40 , 44]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 8,
+      "expected_total_race_time_s": 2063.8,
+      "expected_gain_vs_stayout_s": 6.2,
+      "confidence_band_s": [
+        3.9,
+        8.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 41,
+          "to_lap": 49,
+          "compound": "HARD",
+          "planned_pit_lap": 49
+        },
+        {
+          "from_lap": 49,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[41 , 45]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 8,
+      "expected_total_race_time_s": 2018.5,
+      "expected_gain_vs_stayout_s": 6.2,
+      "confidence_band_s": [
+        3.9,
+        8.5
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 42,
+          "to_lap": 50,
+          "compound": "HARD",
+          "planned_pit_lap": 50
+        },
+        {
+          "from_lap": 50,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[42 , 46]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 8,
+      "expected_total_race_time_s": 1769.2,
+      "expected_gain_vs_stayout_s": 24.3,
+      "confidence_band_s": [
+        22.0,
+        26.6
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 43,
+          "to_lap": 51,
+          "compound": "HARD",
+          "planned_pit_lap": 51
+        },
+        {
+          "from_lap": 51,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[43 , 47]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 8,
+      "expected_total_race_time_s": 1483.6,
+      "expected_gain_vs_stayout_s": 24.3,
+      "confidence_band_s": [
+        22.0,
+        26.6
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 44,
+          "to_lap": 52,
+          "compound": "HARD",
+          "planned_pit_lap": 52
+        },
+        {
+          "from_lap": 52,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[44 , 48]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 8,
+      "expected_total_race_time_s": 1335.0,
+      "expected_gain_vs_stayout_s": 24.3,
+      "confidence_band_s": [
+        22.0,
+        26.6
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 45,
+          "to_lap": 53,
+          "compound": "HARD",
+          "planned_pit_lap": 53
+        },
+        {
+          "from_lap": 53,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[45 , 49]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 8,
+      "expected_total_race_time_s": 1112.4,
+      "expected_gain_vs_stayout_s": 24.3,
+      "confidence_band_s": [
+        22.0,
+        26.6
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 46,
+          "to_lap": 54,
+          "compound": "HARD",
+          "planned_pit_lap": 54
+        },
+        {
+          "from_lap": 54,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[46 , 50]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 8,
+      "expected_total_race_time_s": 884.8,
+      "expected_gain_vs_stayout_s": 24.3,
+      "confidence_band_s": [
+        22.0,
+        26.6
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 47,
+          "to_lap": 55,
+          "compound": "HARD",
+          "planned_pit_lap": 55
+        },
+        {
+          "from_lap": 55,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[47 , 51]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 8,
+      "expected_total_race_time_s": 800.2,
+      "expected_gain_vs_stayout_s": 24.3,
+      "confidence_band_s": [
+        22.0,
+        26.6
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 48,
+          "to_lap": 56,
+          "compound": "HARD",
+          "planned_pit_lap": 56
+        },
+        {
+          "from_lap": 56,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[48 , 52]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 8,
+      "expected_total_race_time_s": 717.8,
+      "expected_gain_vs_stayout_s": 24.3,
+      "confidence_band_s": [
+        22.0,
+        26.6
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 49,
+          "to_lap": 57,
+          "compound": "HARD",
+          "planned_pit_lap": 57
+        },
+        {
+          "from_lap": 57,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[49 , 53]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 8,
+      "expected_total_race_time_s": 719.0,
+      "expected_gain_vs_stayout_s": 24.3,
+      "confidence_band_s": [
+        22.0,
+        26.6
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 50,
+          "to_lap": 58,
+          "compound": "HARD",
+          "planned_pit_lap": 58
+        },
+        {
+          "from_lap": 58,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[50 , 54]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 8,
+      "expected_total_race_time_s": 719.8,
+      "expected_gain_vs_stayout_s": 24.3,
+      "confidence_band_s": [
+        22.0,
+        26.6
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 51,
+          "to_lap": 59,
+          "compound": "HARD",
+          "planned_pit_lap": 59
+        },
+        {
+          "from_lap": 59,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[51 , 55]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 8,
+      "expected_total_race_time_s": 720.9,
+      "expected_gain_vs_stayout_s": 24.3,
+      "confidence_band_s": [
+        22.0,
+        26.6
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 52,
+          "to_lap": 60,
+          "compound": "HARD",
+          "planned_pit_lap": 60
+        },
+        {
+          "from_lap": 60,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[52 , 56]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 8,
+      "expected_total_race_time_s": 721.8,
+      "expected_gain_vs_stayout_s": 24.3,
+      "confidence_band_s": [
+        22.0,
+        26.6
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 53,
+          "to_lap": 61,
+          "compound": "HARD",
+          "planned_pit_lap": 61
+        },
+        {
+          "from_lap": 61,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[53 , 57]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 8,
+      "expected_total_race_time_s": 722.4,
+      "expected_gain_vs_stayout_s": 24.3,
+      "confidence_band_s": [
+        22.0,
+        26.6
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 54,
+          "to_lap": 62,
+          "compound": "HARD",
+          "planned_pit_lap": 62
+        },
+        {
+          "from_lap": 62,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[54 , 58]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 8,
+      "expected_total_race_time_s": 723.0,
+      "expected_gain_vs_stayout_s": 24.3,
+      "confidence_band_s": [
+        22.0,
+        26.6
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 55,
+          "to_lap": 63,
+          "compound": "HARD",
+          "planned_pit_lap": 63
+        },
+        {
+          "from_lap": 63,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[55 , 59]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 8,
+      "expected_total_race_time_s": 724.9,
+      "expected_gain_vs_stayout_s": 24.3,
+      "confidence_band_s": [
+        22.0,
+        26.6
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 56,
+          "to_lap": 64,
+          "compound": "HARD",
+          "planned_pit_lap": 64
+        },
+        {
+          "from_lap": 64,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[56 , 60]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  },
+  {
+    "decision": {
+      "pit_recommend_now": 0,
+      "pit_probability_next_1_lap": 0.0,
+      "pit_probability_next_2_laps": 0.0,
+      "recommended_compound_next": "M",
+      "target_stint_length_laps": 8,
+      "expected_total_race_time_s": 727.2,
+      "expected_gain_vs_stayout_s": 24.3,
+      "confidence_band_s": [
+        22.0,
+        26.6
+      ]
+    },
+    "plan": {
+      "planned_number_of_stops": 1,
+      "stints": [
+        {
+          "from_lap": 57,
+          "to_lap": 65,
+          "compound": "HARD",
+          "planned_pit_lap": 65
+        },
+        {
+          "from_lap": 65,
+          "to_lap": 57,
+          "compound": "M",
+          "planned_pit_lap": 57
+        }
+      ],
+      "scenario_branches": {
+        "if_SC_in_[57 , 61]": {
+          "pit_now": true,
+          "compound": "H"
+        },
+        "if_rain_prob_gt_0.4": {
+          "pit_for": "Inter"
+        }
+      }
+    }
+  }
+]

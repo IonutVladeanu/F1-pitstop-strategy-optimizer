@@ -1,0 +1,18 @@
+# FastF1 cache - NEVER commit
+cache_fastf1/
+fastf1_http_cache.sqlite
+*.ff1pkl
+
+# Python
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Big binary data (optional)
+*.sqlite
+*.zip
+*.pkl

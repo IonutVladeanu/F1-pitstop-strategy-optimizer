@@ -1,0 +1,15 @@
+{
+  "decision": {
+    "pit_recommend_now": 0,
+    "pit_probability_next_1_lap": 0.0,
+    "pit_probability_next_2_laps": 0.0,
+    "recommended_compound_next": "H",
+    "target_stint_length_laps": 20,
+    "expected_total_race_time_s": null,
+    "expected_gain_vs_stayout_s": -41.9,
+    "confidence_band_s": [
+      -44.2,
+      -39.6
+    ]
+  }
+}
