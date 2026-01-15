@@ -1,0 +1,46 @@
+{
+  "race_config": {
+    "track": "Monaco",
+    "total_laps": 78,
+    "driver": "Ionut Vladeanu",
+    "grid_position": 3,
+    "starting_compound": "HARD",
+    "safety_car_laps": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ]
+  },
+  "ml_prediction": {
+    "optimal_pit_lap": 33,
+    "pit_probability_calibrated": 0.006,
+    "pit_confidence": 0.133,
+    "recommended_window": [
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "peak_probability": 0.049,
+    "threshold_used": 0.18
+  },
+  "strategy": {
+    "number_of_stops": 1,
+    "first_stint": {
+      "compound": "HARD",
+      "from_lap": 1,
+      "to_lap": 33,
+      "laps": 33
+    },
+    "second_stint": {
+      "compound": "MEDIUM",
+      "from_lap": 34,
+      "to_lap": 78,
+      "laps": 45
+    }
+  }
+}
